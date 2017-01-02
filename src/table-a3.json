@@ -1,0 +1,1245 @@
+[
+  {
+    "entity": "AFGHANISTAN",
+    "historicCurrency": "Afghani",
+    "alphabeticCode": "AFA",
+    "numericCode": "004",
+    "funds": "",
+    "withdrawalDate": "2003-01"
+  },
+  {
+    "entity": "LAND ISLANDS",
+    "historicCurrency": "Markka",
+    "alphabeticCode": "FIM",
+    "numericCode": "246",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "ALBANIA",
+    "historicCurrency": "Old Lek",
+    "alphabeticCode": "ALK",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989-12"
+  },
+  {
+    "entity": "ANDORRA",
+    "historicCurrency": "Andorran Peseta",
+    "alphabeticCode": "ADP",
+    "numericCode": "020",
+    "funds": "",
+    "withdrawalDate": "2003-07"
+  },
+  {
+    "entity": "ANDORRA",
+    "historicCurrency": "Spanish Peseta",
+    "alphabeticCode": "ESP",
+    "numericCode": "724",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "ANDORRA",
+    "historicCurrency": "French Franc",
+    "alphabeticCode": "FRF",
+    "numericCode": "250",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "ANGOLA",
+    "historicCurrency": "Kwanza",
+    "alphabeticCode": "AOK",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1991-03"
+  },
+  {
+    "entity": "ANGOLA",
+    "historicCurrency": "New Kwanza",
+    "alphabeticCode": "AON",
+    "numericCode": "024",
+    "funds": "",
+    "withdrawalDate": "2000-02"
+  },
+  {
+    "entity": "ANGOLA",
+    "historicCurrency": "Kwanza Reajustado",
+    "alphabeticCode": "AOR",
+    "numericCode": "982",
+    "funds": "",
+    "withdrawalDate": "2000-02"
+  },
+  {
+    "entity": "ARGENTINA",
+    "historicCurrency": "Austral",
+    "alphabeticCode": "ARA",
+    "numericCode": "032",
+    "funds": "",
+    "withdrawalDate": "1992-01"
+  },
+  {
+    "entity": "ARGENTINA",
+    "historicCurrency": "Peso Argentino",
+    "alphabeticCode": "ARP",
+    "numericCode": "032",
+    "funds": "",
+    "withdrawalDate": "1985-07"
+  },
+  {
+    "entity": "ARGENTINA",
+    "historicCurrency": "Peso",
+    "alphabeticCode": "ARY",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989 to 1990"
+  },
+  {
+    "entity": "ARMENIA",
+    "historicCurrency": "Russian Ruble",
+    "alphabeticCode": "RUR",
+    "numericCode": "810",
+    "funds": "",
+    "withdrawalDate": "1994-08"
+  },
+  {
+    "entity": "AUSTRIA",
+    "historicCurrency": "Schilling",
+    "alphabeticCode": "ATS",
+    "numericCode": "040",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "AZERBAIJAN",
+    "historicCurrency": "Azerbaijan Manat",
+    "alphabeticCode": "AYM",
+    "numericCode": "945",
+    "funds": "",
+    "withdrawalDate": "2005-10"
+  },
+  {
+    "entity": "AZERBAIJAN",
+    "historicCurrency": "Azerbaijanian Manat",
+    "alphabeticCode": "AZM",
+    "numericCode": "031",
+    "funds": "",
+    "withdrawalDate": "2005-12"
+  },
+  {
+    "entity": "AZERBAIJAN",
+    "historicCurrency": "Russian Ruble",
+    "alphabeticCode": "RUR",
+    "numericCode": "810",
+    "funds": "",
+    "withdrawalDate": "1994-08"
+  },
+  {
+    "entity": "BELARUS",
+    "historicCurrency": "Belarussian Ruble",
+    "alphabeticCode": "BYB",
+    "numericCode": "112",
+    "funds": "",
+    "withdrawalDate": "2001-01"
+  },
+  {
+    "entity": "BELARUS",
+    "historicCurrency": "Russian Ruble",
+    "alphabeticCode": "RUR",
+    "numericCode": "810",
+    "funds": "",
+    "withdrawalDate": "1994-06"
+  },
+  {
+    "entity": "BELGIUM",
+    "historicCurrency": "Convertible Franc",
+    "alphabeticCode": "BEC",
+    "numericCode": "993",
+    "funds": "",
+    "withdrawalDate": "1990-03"
+  },
+  {
+    "entity": "BELGIUM",
+    "historicCurrency": "Belgian Franc",
+    "alphabeticCode": "BEF",
+    "numericCode": "056",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "BELGIUM",
+    "historicCurrency": "Financial Franc",
+    "alphabeticCode": "BEL",
+    "numericCode": "992",
+    "funds": "",
+    "withdrawalDate": "1990-03"
+  },
+  {
+    "entity": "BOLIVIA",
+    "historicCurrency": "Peso boliviano",
+    "alphabeticCode": "BOP",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1987-02"
+  },
+  {
+    "entity": "BOSNIA AND HERZEGOVINA",
+    "historicCurrency": "Dinar",
+    "alphabeticCode": "BAD",
+    "numericCode": "070",
+    "funds": "",
+    "withdrawalDate": "1997-07"
+  },
+  {
+    "entity": "BRAZIL",
+    "historicCurrency": "Cruzeiro",
+    "alphabeticCode": "BRB",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1986-03"
+  },
+  {
+    "entity": "BRAZIL",
+    "historicCurrency": "Cruzado",
+    "alphabeticCode": "BRC",
+    "numericCode": "076",
+    "funds": "",
+    "withdrawalDate": "1989-02"
+  },
+  {
+    "entity": "BRAZIL",
+    "historicCurrency": "Cruzeiro",
+    "alphabeticCode": "BRE",
+    "numericCode": "076",
+    "funds": "",
+    "withdrawalDate": "1993-03"
+  },
+  {
+    "entity": "BRAZIL",
+    "historicCurrency": "New Cruzado",
+    "alphabeticCode": "BRN",
+    "numericCode": "076",
+    "funds": "",
+    "withdrawalDate": "1990-03"
+  },
+  {
+    "entity": "BRAZIL",
+    "historicCurrency": "Cruzeiro Real",
+    "alphabeticCode": "BRR",
+    "numericCode": "987",
+    "funds": "",
+    "withdrawalDate": "1994-07"
+  },
+  {
+    "entity": "BULGARIA",
+    "historicCurrency": "Lev A/52",
+    "alphabeticCode": "BGJ",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989 to 1990"
+  },
+  {
+    "entity": "BULGARIA",
+    "historicCurrency": "Lev A/62",
+    "alphabeticCode": "BGK",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989 to 1990"
+  },
+  {
+    "entity": "BULGARIA",
+    "historicCurrency": "Lev",
+    "alphabeticCode": "BGL",
+    "numericCode": "100",
+    "funds": "",
+    "withdrawalDate": "2003-11"
+  },
+  {
+    "entity": "BURMAÊ",
+    "historicCurrency": "N.A.",
+    "alphabeticCode": "BUK",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1990-02"
+  },
+  {
+    "entity": "CHINA",
+    "historicCurrency": "Peoples Bank Dollar",
+    "alphabeticCode": "CNX",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989-12"
+  },
+  {
+    "entity": "CROATIA",
+    "historicCurrency": "Croatian Dinar",
+    "alphabeticCode": "HRD",
+    "numericCode": "191",
+    "funds": "",
+    "withdrawalDate": "1995-01"
+  },
+  {
+    "entity": "CYPRUS",
+    "historicCurrency": "Cyprus Pound",
+    "alphabeticCode": "CYP",
+    "numericCode": "196",
+    "funds": "",
+    "withdrawalDate": "2008-01"
+  },
+  {
+    "entity": "CZECHOSLOVAKIA",
+    "historicCurrency": "Krona A/53",
+    "alphabeticCode": "CSJ",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989 to 1990"
+  },
+  {
+    "entity": "CZECHOSLOVAKIA",
+    "historicCurrency": "Koruna",
+    "alphabeticCode": "CSK",
+    "numericCode": "200",
+    "funds": "",
+    "withdrawalDate": "1993-03"
+  },
+  {
+    "entity": "ECUADOR",
+    "historicCurrency": "Sucre",
+    "alphabeticCode": "ECS",
+    "numericCode": "218",
+    "funds": "",
+    "withdrawalDate": "2000-09"
+  },
+  {
+    "entity": "ECUADOR",
+    "historicCurrency": "Unidad de Valor Constante (UVC)",
+    "alphabeticCode": "ECV",
+    "numericCode": "983",
+    "funds": "",
+    "withdrawalDate": "2000-09"
+  },
+  {
+    "entity": "EQUATORIAL GUINEA",
+    "historicCurrency": "Ekwele",
+    "alphabeticCode": "EQE",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989-12"
+  },
+  {
+    "entity": "EQUATORIAL GUINEA",
+    "historicCurrency": "Ekwele",
+    "alphabeticCode": "GQE",
+    "numericCode": "226",
+    "funds": "",
+    "withdrawalDate": "1986-06"
+  },
+  {
+    "entity": "ESTONIA",
+    "historicCurrency": "Kroon",
+    "alphabeticCode": "EEK",
+    "numericCode": "233",
+    "funds": "",
+    "withdrawalDate": "2011-01"
+  },
+  {
+    "entity": "EUROPEAN MONETARY CO-OPERATION FUND (EMCF)",
+    "historicCurrency": "European Currency Unit (E.C.U)",
+    "alphabeticCode": "XEU",
+    "numericCode": "954",
+    "funds": "",
+    "withdrawalDate": "1999-01"
+  },
+  {
+    "entity": "FINLAND",
+    "historicCurrency": "Markka",
+    "alphabeticCode": "FIM",
+    "numericCode": "246",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "FRANCE",
+    "historicCurrency": "French Franc",
+    "alphabeticCode": "FRF",
+    "numericCode": "250",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "FRENCH  GUIANA",
+    "historicCurrency": "French Franc",
+    "alphabeticCode": "FRF",
+    "numericCode": "250",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "FRENCH SOUTHERN TERRITORIES",
+    "historicCurrency": "French Franc",
+    "alphabeticCode": "FRF",
+    "numericCode": "250",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "GEORGIA",
+    "historicCurrency": "Georgian Coupon",
+    "alphabeticCode": "GEK",
+    "numericCode": "268",
+    "funds": "",
+    "withdrawalDate": "1995-10"
+  },
+  {
+    "entity": "GEORGIA",
+    "historicCurrency": "Russian Ruble",
+    "alphabeticCode": "RUR",
+    "numericCode": "810",
+    "funds": "",
+    "withdrawalDate": "1994-04"
+  },
+  {
+    "entity": "GERMAN DEMOCRATIC REPUBLIC",
+    "historicCurrency": "Mark der DDR",
+    "alphabeticCode": "DDM",
+    "numericCode": "278",
+    "funds": "",
+    "withdrawalDate": "1990-07 to 1990-09"
+  },
+  {
+    "entity": "GERMANY",
+    "historicCurrency": "Deutsche Mark",
+    "alphabeticCode": "DEM",
+    "numericCode": "276",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "GHANA",
+    "historicCurrency": "Cedi",
+    "alphabeticCode": "GHC",
+    "numericCode": "288",
+    "funds": "",
+    "withdrawalDate": "2008-01"
+  },
+  {
+    "entity": "GHANA",
+    "historicCurrency": "Ghana Cedi",
+    "alphabeticCode": "GHP",
+    "numericCode": "939",
+    "funds": "",
+    "withdrawalDate": "2007-06"
+  },
+  {
+    "entity": "GREECE",
+    "historicCurrency": "Drachma",
+    "alphabeticCode": "GRD",
+    "numericCode": "300",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "GUADELOUPE",
+    "historicCurrency": "French Franc",
+    "alphabeticCode": "FRF",
+    "numericCode": "250",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "GUINEA",
+    "historicCurrency": "Syli",
+    "alphabeticCode": "GNE",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989-12"
+  },
+  {
+    "entity": "GUINEA",
+    "historicCurrency": "Syli",
+    "alphabeticCode": "GNS",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1986-02"
+  },
+  {
+    "entity": "GUINEA-BISSAU",
+    "historicCurrency": "Guinea Escudo",
+    "alphabeticCode": "GWE",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1978 to 1981"
+  },
+  {
+    "entity": "GUINEA-BISSAU",
+    "historicCurrency": "Guinea-Bissau Peso",
+    "alphabeticCode": "GWP",
+    "numericCode": "624",
+    "funds": "",
+    "withdrawalDate": "1997-05"
+  },
+  {
+    "entity": "HOLY SEE (VATICAN CITY STATE)",
+    "historicCurrency": "Italian Lira",
+    "alphabeticCode": "ITL",
+    "numericCode": "380",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "ICELAND",
+    "historicCurrency": "Old Krona",
+    "alphabeticCode": "ISJ",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989 to 1990"
+  },
+  {
+    "entity": "IRELAND",
+    "historicCurrency": "Irish Pound",
+    "alphabeticCode": "IEP",
+    "numericCode": "372",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "ISRAEL",
+    "historicCurrency": "Pound",
+    "alphabeticCode": "ILP",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1978 to 1981"
+  },
+  {
+    "entity": "ISRAEL",
+    "historicCurrency": "Old Shekel",
+    "alphabeticCode": "ILR",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989 to 1990"
+  },
+  {
+    "entity": "ITALY",
+    "historicCurrency": "Italian Lira",
+    "alphabeticCode": "ITL",
+    "numericCode": "380",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "KAZAKHSTAN",
+    "historicCurrency": "Russian Ruble",
+    "alphabeticCode": "RUR",
+    "numericCode": "810",
+    "funds": "",
+    "withdrawalDate": "1994-05"
+  },
+  {
+    "entity": "KYRGYZSTAN",
+    "historicCurrency": "Russian Ruble",
+    "alphabeticCode": "RUR",
+    "numericCode": "810",
+    "funds": "",
+    "withdrawalDate": "1993-01"
+  },
+  {
+    "entity": "LAO",
+    "historicCurrency": "Kip Pot Pol",
+    "alphabeticCode": "LAJ",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989-12"
+  },
+  {
+    "entity": "LATVIA",
+    "historicCurrency": "Latvian Lats",
+    "alphabeticCode": "LVL",
+    "numericCode": "428",
+    "funds": " ",
+    "withdrawalDate": "2014-01"
+  },
+  {
+    "entity": "LATVIA",
+    "historicCurrency": "Latvian Ruble",
+    "alphabeticCode": "LVR",
+    "numericCode": "428",
+    "funds": "",
+    "withdrawalDate": "1994-12"
+  },
+  {
+    "entity": "LESOTHO",
+    "historicCurrency": "Maloti",
+    "alphabeticCode": "LSM",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1985-05"
+  },
+  {
+    "entity": "LESOTHO",
+    "historicCurrency": "Financial Rand",
+    "alphabeticCode": "ZAL",
+    "numericCode": "991",
+    "funds": "",
+    "withdrawalDate": "1995-03"
+  },
+  {
+    "entity": "LITHUANIA",
+    "historicCurrency": "Lithuanian Litas",
+    "alphabeticCode": "LTL",
+    "numericCode": "440",
+    "funds": " ",
+    "withdrawalDate": "2014-12"
+  },
+  {
+    "entity": "LITHUANIA",
+    "historicCurrency": "Talonas",
+    "alphabeticCode": "LTT",
+    "numericCode": "440",
+    "funds": "",
+    "withdrawalDate": "1993-07"
+  },
+  {
+    "entity": "LUXEMBOURG",
+    "historicCurrency": "Luxembourg Convertible Franc",
+    "alphabeticCode": "LUC",
+    "numericCode": "989",
+    "funds": "",
+    "withdrawalDate": "1990-03"
+  },
+  {
+    "entity": "LUXEMBOURG",
+    "historicCurrency": "Luxembourg Franc",
+    "alphabeticCode": "LUF",
+    "numericCode": "442",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "LUXEMBOURG",
+    "historicCurrency": "Luxembourg Financial Franc",
+    "alphabeticCode": "LUL",
+    "numericCode": "988",
+    "funds": "",
+    "withdrawalDate": "1990-03"
+  },
+  {
+    "entity": "MADAGASCAR",
+    "historicCurrency": "Malagasy Franc",
+    "alphabeticCode": "MGF",
+    "numericCode": "450",
+    "funds": "",
+    "withdrawalDate": "2004-12"
+  },
+  {
+    "entity": "MALDIVES",
+    "historicCurrency": "Maldive Rupee",
+    "alphabeticCode": "MVQ",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989-12"
+  },
+  {
+    "entity": "MALI",
+    "historicCurrency": "Mali Franc",
+    "alphabeticCode": "MAF",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989-12"
+  },
+  {
+    "entity": "MALI",
+    "historicCurrency": "Mali Franc",
+    "alphabeticCode": "MLF",
+    "numericCode": "466",
+    "funds": "",
+    "withdrawalDate": "1984-11"
+  },
+  {
+    "entity": "MALTA",
+    "historicCurrency": "Maltese Lira",
+    "alphabeticCode": "MTL",
+    "numericCode": "470",
+    "funds": "",
+    "withdrawalDate": "2008-01"
+  },
+  {
+    "entity": "MALTA",
+    "historicCurrency": "Maltese Pound",
+    "alphabeticCode": "MTP",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1983-06"
+  },
+  {
+    "entity": "MARTINIQUE",
+    "historicCurrency": "French Franc",
+    "alphabeticCode": "FRF",
+    "numericCode": "250",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "MAYOTTE",
+    "historicCurrency": "French Franc",
+    "alphabeticCode": "FRF",
+    "numericCode": "250",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "MEXICO",
+    "historicCurrency": "Mexican Peso",
+    "alphabeticCode": "MXP",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1993-01"
+  },
+  {
+    "entity": "MOLDOVA, REPUBLIC OF",
+    "historicCurrency": "Russian Ruble",
+    "alphabeticCode": "RUR",
+    "numericCode": "810",
+    "funds": "",
+    "withdrawalDate": "1993-12"
+  },
+  {
+    "entity": "MONACO",
+    "historicCurrency": "French Franc",
+    "alphabeticCode": "FRF",
+    "numericCode": "250",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "MOZAMBIQUE",
+    "historicCurrency": "Mozambique Escudo",
+    "alphabeticCode": "MZE",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1978 to 1981"
+  },
+  {
+    "entity": "MOZAMBIQUE",
+    "historicCurrency": "Mozambique Metical",
+    "alphabeticCode": "MZM",
+    "numericCode": "508",
+    "funds": "",
+    "withdrawalDate": "2006-06"
+  },
+  {
+    "entity": "NETHERLANDS",
+    "historicCurrency": "Netherlands Guilder",
+    "alphabeticCode": "NLG",
+    "numericCode": "528",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "NETHERLANDS ANTILLES",
+    "historicCurrency": "Netherlands Antillean Guilder",
+    "alphabeticCode": "ANG",
+    "numericCode": "532",
+    "funds": "",
+    "withdrawalDate": "2010-10"
+  },
+  {
+    "entity": "NICARAGUA",
+    "historicCurrency": "Cordoba",
+    "alphabeticCode": "NIC",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1990-10"
+  },
+  {
+    "entity": "PERU",
+    "historicCurrency": "Sol",
+    "alphabeticCode": "PEH",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989 to 1990"
+  },
+  {
+    "entity": "PERU",
+    "historicCurrency": "Inti",
+    "alphabeticCode": "PEI",
+    "numericCode": "604",
+    "funds": "",
+    "withdrawalDate": "1991-07"
+  },
+  {
+    "entity": "PERU",
+    "historicCurrency": "Sol",
+    "alphabeticCode": "PES",
+    "numericCode": "604",
+    "funds": "",
+    "withdrawalDate": "1986-02"
+  },
+  {
+    "entity": "POLAND",
+    "historicCurrency": "Zloty",
+    "alphabeticCode": "PLZ",
+    "numericCode": "616",
+    "funds": "",
+    "withdrawalDate": "1997-01"
+  },
+  {
+    "entity": "PORTUGAL",
+    "historicCurrency": "Portuguese Escudo",
+    "alphabeticCode": "PTE",
+    "numericCode": "620",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "RƒUNION",
+    "historicCurrency": "French Franc",
+    "alphabeticCode": "FRF",
+    "numericCode": "250",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "ROMANIA",
+    "historicCurrency": "Leu A/52",
+    "alphabeticCode": "ROK",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989 to 1990"
+  },
+  {
+    "entity": "ROMANIA",
+    "historicCurrency": "Old Leu",
+    "alphabeticCode": "ROL",
+    "numericCode": "642",
+    "funds": "",
+    "withdrawalDate": "2005-06"
+  },
+  {
+    "entity": "RUSSIAN FEDERATION",
+    "historicCurrency": "Russian Ruble",
+    "alphabeticCode": "RUR",
+    "numericCode": "810",
+    "funds": "",
+    "withdrawalDate": "2004-01"
+  },
+  {
+    "entity": "SAINT MARTIN",
+    "historicCurrency": "French Franc",
+    "alphabeticCode": "FRF",
+    "numericCode": "250",
+    "funds": "",
+    "withdrawalDate": "1999-01"
+  },
+  {
+    "entity": "SAINT PIERRE AND MIQUELON",
+    "historicCurrency": "French Franc",
+    "alphabeticCode": "FRF",
+    "numericCode": "250",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "SAINT-BARTHƒLEMY",
+    "historicCurrency": "French Franc",
+    "alphabeticCode": "FRF",
+    "numericCode": "250",
+    "funds": "",
+    "withdrawalDate": "1999-01"
+  },
+  {
+    "entity": "SAN MARINO",
+    "historicCurrency": "Italian Lira",
+    "alphabeticCode": "ITL",
+    "numericCode": "380",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "SERBIA AND MONTENEGRO",
+    "historicCurrency": "Serbian Dinar",
+    "alphabeticCode": "CSD",
+    "numericCode": "891",
+    "funds": "",
+    "withdrawalDate": "2006-10"
+  },
+  {
+    "entity": "SERBIA AND MONTENEGRO",
+    "historicCurrency": "Euro",
+    "alphabeticCode": "EUR",
+    "numericCode": "978",
+    "funds": "",
+    "withdrawalDate": "2006-10"
+  },
+  {
+    "entity": "SLOVAKIA",
+    "historicCurrency": "Slovak Koruna",
+    "alphabeticCode": "SKK",
+    "numericCode": "703",
+    "funds": "",
+    "withdrawalDate": "2009-01"
+  },
+  {
+    "entity": "SLOVENIA",
+    "historicCurrency": "Tolar",
+    "alphabeticCode": "SIT",
+    "numericCode": "705",
+    "funds": "",
+    "withdrawalDate": "2007-01"
+  },
+  {
+    "entity": "SOUTH AFRICA",
+    "historicCurrency": "Financial Rand",
+    "alphabeticCode": "ZAL",
+    "numericCode": "991",
+    "funds": "",
+    "withdrawalDate": "1995-03"
+  },
+  {
+    "entity": "SOUTH SUDAN",
+    "historicCurrency": "Sudanese Pound",
+    "alphabeticCode": "SDG",
+    "numericCode": "938",
+    "funds": "",
+    "withdrawalDate": "2012-09"
+  },
+  {
+    "entity": "SOUTHERN RHODESIAÊ",
+    "historicCurrency": "Rhodesian Dollar",
+    "alphabeticCode": "RHD",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1978 to 1981"
+  },
+  {
+    "entity": "SPAIN",
+    "historicCurrency": "Spanish Peseta",
+    "alphabeticCode": "ESA",
+    "numericCode": "996",
+    "funds": "",
+    "withdrawalDate": "1978 to 1981"
+  },
+  {
+    "entity": "SPAIN",
+    "historicCurrency": "\"\"\"A\"\" Account (convertible Peseta Account)\"",
+    "alphabeticCode": "ESB",
+    "numericCode": "995",
+    "funds": "",
+    "withdrawalDate": "1994-12"
+  },
+  {
+    "entity": "SPAIN",
+    "historicCurrency": "Spanish Peseta",
+    "alphabeticCode": "ESP",
+    "numericCode": "724",
+    "funds": "",
+    "withdrawalDate": "2002-03"
+  },
+  {
+    "entity": "SUDAN",
+    "historicCurrency": "Sudanese Dinar",
+    "alphabeticCode": "SDD",
+    "numericCode": "736",
+    "funds": "",
+    "withdrawalDate": "2007-07"
+  },
+  {
+    "entity": "SUDAN",
+    "historicCurrency": "Sudanese Pound",
+    "alphabeticCode": "SDP",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1998-06"
+  },
+  {
+    "entity": "SURINAME",
+    "historicCurrency": "Surinam Guilder",
+    "alphabeticCode": "SRG",
+    "numericCode": "740",
+    "funds": "",
+    "withdrawalDate": "2003-12"
+  },
+  {
+    "entity": "SWITZERLAND",
+    "historicCurrency": "WIR Franc (for electronic)",
+    "alphabeticCode": "CHC",
+    "numericCode": "948",
+    "funds": "",
+    "withdrawalDate": "2004-11"
+  },
+  {
+    "entity": "TAJIKISTAN",
+    "historicCurrency": "Russian Ruble",
+    "alphabeticCode": "RUR",
+    "numericCode": "810",
+    "funds": "",
+    "withdrawalDate": "1995-05"
+  },
+  {
+    "entity": "TAJIKISTAN",
+    "historicCurrency": "Tajik Ruble",
+    "alphabeticCode": "TJR",
+    "numericCode": "762",
+    "funds": "",
+    "withdrawalDate": "2001-04"
+  },
+  {
+    "entity": "TIMOR-LESTE",
+    "historicCurrency": "Rupiah",
+    "alphabeticCode": "IDR",
+    "numericCode": "360",
+    "funds": "",
+    "withdrawalDate": "2002-07"
+  },
+  {
+    "entity": "TIMOR-LESTE",
+    "historicCurrency": "Timor Escudo",
+    "alphabeticCode": "TPE",
+    "numericCode": "626",
+    "funds": "",
+    "withdrawalDate": "2002-11"
+  },
+  {
+    "entity": "TURKEY",
+    "historicCurrency": "Old Turkish Lira",
+    "alphabeticCode": "TRL",
+    "numericCode": "792",
+    "funds": "",
+    "withdrawalDate": "2005-12"
+  },
+  {
+    "entity": "TURKEY",
+    "historicCurrency": "New Turkish Lira",
+    "alphabeticCode": "TRY",
+    "numericCode": "949",
+    "funds": "",
+    "withdrawalDate": "2009-01"
+  },
+  {
+    "entity": "TURKMENISTAN",
+    "historicCurrency": "Russian Ruble",
+    "alphabeticCode": "RUR",
+    "numericCode": "810",
+    "funds": "",
+    "withdrawalDate": "1993-10"
+  },
+  {
+    "entity": "TURKMENISTAN",
+    "historicCurrency": "Turkmenistan Manat",
+    "alphabeticCode": "TMM",
+    "numericCode": "795",
+    "funds": "",
+    "withdrawalDate": "2009-01"
+  },
+  {
+    "entity": "UGANDA",
+    "historicCurrency": "Uganda Shilling",
+    "alphabeticCode": "UGS",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1987-05"
+  },
+  {
+    "entity": "UGANDA",
+    "historicCurrency": "Old Shilling",
+    "alphabeticCode": "UGW",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989 to 1990"
+  },
+  {
+    "entity": "UKRAINE",
+    "historicCurrency": "Karbovanet",
+    "alphabeticCode": "UAK",
+    "numericCode": "804",
+    "funds": "",
+    "withdrawalDate": "1996-09"
+  },
+  {
+    "entity": "UNION OF SOVIET SOCIALIST REPUBLICS",
+    "historicCurrency": "Rouble",
+    "alphabeticCode": "SUR",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1990-12"
+  },
+  {
+    "entity": "UNITED STATES",
+    "historicCurrency": "US Dollar (Same day)",
+    "alphabeticCode": "USS",
+    "numericCode": "998",
+    "funds": "",
+    "withdrawalDate": "2014-03"
+  },
+  {
+    "entity": "URUGUAY",
+    "historicCurrency": "Old Uruguay Peso",
+    "alphabeticCode": "UYN",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989-12"
+  },
+  {
+    "entity": "URUGUAY",
+    "historicCurrency": "Uruguayan Peso",
+    "alphabeticCode": "UYP",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1993-03"
+  },
+  {
+    "entity": "UZBEKISTAN",
+    "historicCurrency": "Russian Ruble",
+    "alphabeticCode": "RUR",
+    "numericCode": "810",
+    "funds": "",
+    "withdrawalDate": "1994-07"
+  },
+  {
+    "entity": "VENEZUELA",
+    "historicCurrency": "Bolivar",
+    "alphabeticCode": "VEB",
+    "numericCode": "862",
+    "funds": "",
+    "withdrawalDate": "2008-01"
+  },
+  {
+    "entity": "VENEZUELA",
+    "historicCurrency": "Bolivar Fuerte",
+    "alphabeticCode": "VEF",
+    "numericCode": "937",
+    "funds": "",
+    "withdrawalDate": "2011-12"
+  },
+  {
+    "entity": "VIETNAM",
+    "historicCurrency": "Old Dong",
+    "alphabeticCode": "VNC",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989-1990"
+  },
+  {
+    "entity": "YEMEN, DEMOCRATIC",
+    "historicCurrency": "Yemeni Dinar",
+    "alphabeticCode": "YDD",
+    "numericCode": "720",
+    "funds": "",
+    "withdrawalDate": "1991-09"
+  },
+  {
+    "entity": "YUGOSLAVIA",
+    "historicCurrency": "New Yugoslavian Dinar",
+    "alphabeticCode": "YUD",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1990-01"
+  },
+  {
+    "entity": "YUGOSLAVIA",
+    "historicCurrency": "New Dinar",
+    "alphabeticCode": "YUM",
+    "numericCode": "891",
+    "funds": "",
+    "withdrawalDate": "2003-07"
+  },
+  {
+    "entity": "YUGOSLAVIA",
+    "historicCurrency": "Yugoslavian Dinar",
+    "alphabeticCode": "YUN",
+    "numericCode": "890",
+    "funds": "",
+    "withdrawalDate": "1995-11"
+  },
+  {
+    "entity": "ZAIRE",
+    "historicCurrency": "New Zaire",
+    "alphabeticCode": "ZRN",
+    "numericCode": "180",
+    "funds": "",
+    "withdrawalDate": "1999-06"
+  },
+  {
+    "entity": "ZAIRE",
+    "historicCurrency": "Zaire",
+    "alphabeticCode": "ZRZ",
+    "numericCode": "180",
+    "funds": "",
+    "withdrawalDate": "1994-02"
+  },
+  {
+    "entity": "ZAMBIA",
+    "historicCurrency": "Zambian Kwacha",
+    "alphabeticCode": "ZMK",
+    "numericCode": "894",
+    "funds": "",
+    "withdrawalDate": "2012-12"
+  },
+  {
+    "entity": "ZIMBABWE",
+    "historicCurrency": "Rhodesian Dollar",
+    "alphabeticCode": "ZWC",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "1989-12"
+  },
+  {
+    "entity": "ZIMBABWE",
+    "historicCurrency": "Zimbabwe Dollar (old)",
+    "alphabeticCode": "ZWD",
+    "numericCode": "716",
+    "funds": "",
+    "withdrawalDate": "2006-08"
+  },
+  {
+    "entity": "ZIMBABWE",
+    "historicCurrency": "Zimbabwe Dollar",
+    "alphabeticCode": "ZWD",
+    "numericCode": "716",
+    "funds": "",
+    "withdrawalDate": "2008-08"
+  },
+  {
+    "entity": "ZIMBABWE",
+    "historicCurrency": "Zimbabwe Dollar (new)",
+    "alphabeticCode": "ZWN",
+    "numericCode": "942",
+    "funds": "",
+    "withdrawalDate": "2006-09"
+  },
+  {
+    "entity": "ZIMBABWE",
+    "historicCurrency": "Zimbabwe Dollar",
+    "alphabeticCode": "ZWR",
+    "numericCode": "935",
+    "funds": "",
+    "withdrawalDate": "2009-06"
+  },
+  {
+    "entity": "ZZ01_Gold-Franc",
+    "historicCurrency": "Gold-Franc",
+    "alphabeticCode": "XFO",
+    "numericCode": "",
+    "funds": "",
+    "withdrawalDate": "2006-10"
+  },
+  {
+    "entity": "ZZ02_RINET Funds Code",
+    "historicCurrency": "RINET Funds Code",
+    "alphabeticCode": "XRE",
+    "numericCode": "",
+    "funds": "TRUE",
+    "withdrawalDate": "1999-11"
+  },
+  {
+    "entity": "ZZ05_UIC-Franc",
+    "historicCurrency": "UIC-Franc",
+    "alphabeticCode": "XFU",
+    "numericCode": "",
+    "funds": "TRUE",
+    "withdrawalDate": "2013-11"
+  },
+  {
+    "entity": ""
+  }
+]
